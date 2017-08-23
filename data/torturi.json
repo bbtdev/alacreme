@@ -1,0 +1,308 @@
+{
+  "torturi-standard" : [
+    {
+  		"nume": "Tort Diplomat",
+  		"info": "",
+  		"continut":"Foi de pandișpan; crema de charlotte.",
+  		"descriere": "Un tort foarte fresh, ușor, care îmbină aroma citricilor cu frișca naturală și crema charlotte",
+  		"pret": "50",
+  		"poza":"",
+      "filtru":"fructe portocale lamaie lime citrice portocala lamai",
+      "special":""
+  	},
+    {
+      "nume": "Tort cu fructe de pădure de tip bavaroise",
+      "info": "",
+      "continut":"Blat pandișpan; cremă cu gust acrișor de ciocolată albă, fructe de pădure, brânză ricotta/mascarpone, frișcă naturală.",
+      "descriere": "Un tort răcoritor și savuros în același timp, cu un gust echilibrat obținut din combinația fructelor de pădure, cu ciocolată albă și brânză ricotta/mascarpone.",
+      "pret": "55",
+      "poza": "",
+      "filtru":"",
+      "special":""
+    },
+    {
+      "nume": "Tort asortat",
+      "info": "",
+      "continut":"Blat pandișpan; Cremă diplomat, cremă de fructe de pădure.",
+      "descriere": "Combinația ideală între tort diplomat și tort cu fructe de padure.",
+      "pret": "55",
+      "poza": "",
+      "filtru":"frisca",
+      "special":""
+    },
+    {
+      "nume": "Tort Duo Mousse",
+      "info": "",
+      "continut":"Foi de pandișpan; Mousse alb, mousse negru.",
+      "descriere": "O alternanță a mousse-ului de ciocolată albă cu gust de lapte și a mousse-ului din ciocolată veritabilă amară.",
+      "pret": "60",
+      "poza": "",
+      "filtru":"",
+      "special":""
+    },
+    {
+      "nume": "Tort Panacota",
+      "info": "",
+      "continut":"Foaie de pandișpanș; Cremă panacota și căpșuni.",
+      "descriere": "Un tort foarte fin, cu gust de smântână, iaurt și căpșuni.",
+      "pret": "55",
+      "poza": "",
+      "filtru":"fructe",
+      "special":""
+    },
+    {
+      "nume": "Tort Moltisanti",
+      "info": "Tort de ciocolată, Variantă de post",
+      "continut":"Foi de pandișpan cu cacao și unt; Cremă de unt cu ouă, lapte și ciocolată.",
+      "descriere": "Un tort delicios, ce amintește de gustul copilăriei, cu foi din cacao și cremă de ciocolată.",
+      "pret": "60",
+      "poza": "",
+      "filtru":"",
+      "special":"de-ciocolata de-post"
+    },
+    {
+      "nume": "Tort Ciocolatină",
+      "info": "Tort de ciocolată",
+      "continut":"Blat de pandișpan și ciocolată; Cremă de ciocolată amară și frișcă naturală.",
+      "descriere": "Pour le connoisseurs, destinat iubitorilor de ciocolată. Un tort dens cu gust pronunțat de ciocolată neagră și veritabilă.",
+      "pret": "60",
+      "poza": "",
+      "filtru":"",
+      "special":"de ciocolata"
+    },
+    {
+      "nume": "Tort Trois Chocolate",
+      "info": "Tort de ciocolată",
+      "continut":"Foaie de pandișpan; Trei straturi de cremă de ciocolată veritabilă.",
+      "descriere": "Un tort foarte fin și rafinat, în 3 straturi de ciocolată: ciocolată intens amăruie, ciocolată cu lapte, ciocolată albă.",
+      "pret": "65",
+      "poza": "",
+      "filtru":"",
+      "special":"de ciocolata"
+    },
+    {
+      "nume": "Tort Amaretto",
+      "info": "Tort de ciocolată",
+      "continut":"Foi de pandispan, sirop de lămâie; Cremă de ciocolată veritabilă, smântână, pastă de migdale, cognac.",
+      "descriere": "Un tort cu un gust fin, destinat iubitorilor de migdale și ciocolată.",
+      "pret": "60",
+      "poza": "",
+      "filtru":"alcool",
+      "special":"de ciocolata"
+    },
+    {
+      "nume": "Tort fiert de nucă",
+      "info": "Nu conține făină, Tort de ciocolată",
+      "continut":"Blat cu ouă, ciocolată, nucă, zahăr; Cremă cu ouă, lapte, nucă, zahăr, unt, cacao, amidon.",
+      "descriere": "Un tort sofisticat, decadent și foarte fin, ce îmbină în cel mai fericit mod aromele de nucă prăjită cu ciocolată și cacao pură.",
+      "pret": "65",
+      "poza": "",
+      "filtru":"",
+      "special":"fara-faina de-ciocolata"
+    },
+    {
+      "nume": "Tort de ciocolată și vișine (Forêt noire)",
+      "info": "",
+      "continut":"Foi pandișpan cu ciocolată; Cremă de ciocolată neagră veritabilp, cremă de ciocolată albă veritabilă, vișine alcolizate.",
+      "descriere": "Combinație delicioasă a vișinelor alcolizate și ciocolată veritabilă. Un tort clasic și gustos.",
+      "pret": "60",
+      "poza": "",
+      "filtru":"fructe alcool",
+      "special":""
+    }
+
+  ],
+  "torturi-premium" : [
+    {
+      "nume": "Tort Alcazar",
+      "info": "Nu conține făină, Tort de ciocolată",
+      "continut":"Blat: bezea cu nucă; Cremă de gălbenuș, unt, zahăr, rum alb; Glăzură de ciocolată veritabilă.",
+      "descriere": "Un tort rege, extrem de fin și delicios. Pentru iubitorii de cafea; putem adăuga cafea naturală sau ness.",
+      "pret": "70",
+      "poza": "",
+      "filtru":"alcool",
+      "special":"fara-faina de-ciocolata"
+    },
+    {
+      "nume": "Tort Opera",
+      "info": "Nu conține făină, Tort de ciocolată",
+      "continut":"Blat: Joconde, insiropat cu sirop de cafea; Cremă de gălbenușe, cu cafea, unt și cremă bavarois de ciocolată; Glazură de ciocolată amară.",
+      "descriere": "Un tort celebru, regăsit în marile cofetării din lume, pour le connoisseurs. Combinația ideală între: migdale, cafea amară și ciocolată amară.",
+      "pret": "80",
+      "poza": "",
+      "filtru":"",
+      "special":"fara-faina de-ciocolata"
+    },
+    {
+      "nume": "Tort Merengue",
+      "info": "Nu conține făină, Tort de ciocolată",
+      "continut":"Blat de bezea; Cremă cu gălbenuș, unt, zahăr, cacao/cafea/lămâie verde.",
+      "descriere": "Bezea italiană acompaniată de o cremă amăruie sau acrișoară.",
+      "pret": "80",
+      "poza": "",
+      "filtru":"citrice fructe",
+      "special":"fara-faina de-ciocolata"
+    },
+    {
+      "nume": "Tort de nucă și portocală",
+      "info": "Nu conține făină, Tort de ciocolată",
+      "continut":"Blat cu nucă, portocală, ouă, zahăr, cacao;  Cremă: Chantilly/ mousse de ciocolată/ cremă ganaj.",
+      "descriere": "Un tort fresh și decadent în același timp, care îmbină delicoasa portocală, cu nucă și ciocolată.",
+      "pret": "80",
+      "poza": "",
+      "filtru":"",
+      "special":"fara-faina de-ciocolata"
+    },
+    {
+      "nume": "Tort Napoleon",
+      "info": "",
+      "continut":"Blatul: fără zahăr, unt, ouă, smântână, făină; Cremă: gălbenuș, zahăr, unt, baton de vanilie, lămâie verde.",
+      "descriere": "Un tort celebru, preferat al Împăratului Napoleon, din care au derivat: mille-feuille și cremșnit. Pentru iubitorii cremei de vanilie.",
+      "pret": "60",
+      "poza": "",
+      "filtru":"fructe lime citrice",
+      "special":""
+    }
+  ],
+  "torturi-evenimente": [
+    {
+      "nume": "Tort diplomat",
+      "info": "",
+      "continut":"Foi de pandispan; Cremă de charlotte.",
+      "descriere": "Un tort foarte fresh, ușor, care îmbină aroma citricilor cu frișca naturală și crema charlotte.",
+      "pret": "40",
+      "poza": "",
+      "filtru":"fructe portocale citrice lamaie lime lamai portocala"
+    },
+    {
+      "nume": "Tort cu cremă de iaurt și căpșuni / lămâie / fructe de pădure",
+      "info": "",
+      "continut":"Foaie de pandișpan; Cremă de iaurt și fructe.",
+      "descriere": "Un tort foarte fin, cu gust de smântână, iaurt și fructe.",
+      "pret": "40",
+      "poza": "",
+      "filtru":"citrice lamai"
+    },
+    {
+      "nume": "Tort Moltisanti",
+      "info": "Tort de ciocolată",
+      "continut":"Foi de pandișpan cu cacao și unt; Cremă de unt cu ouă, lapte și ciocolată.",
+      "descriere": "Un tort delicios, ce amintește de gustul copilăriei, cu foi din cacao și cremă de ciocolată.",
+      "pret": "40",
+      "poza": "",
+      "filtru":"",
+      "special":"de-ciocolata"
+    },
+    {
+      "nume": "Tort Amandină",
+      "info": "Tort de ciocolată",
+      "continut":"Blat de cacao; Cremă brezar, glazură de ciocolată.",
+      "descriere": "Un tort destinat iubitorilor de ciocolată.",
+      "pret": "40",
+      "poza": "",
+      "filtru": "",
+      "special":"de-ciocolata"
+    },
+    {
+      "nume": "Epoca de aur",
+      "info": "Tort de ciocolată",
+      "continut":"Blat pandișpan insiropat; Cremă de unt, ou și cacao.",
+      "descriere": "Un tort foarte bine însiropat, după rețetele bunicii.",
+      "pret": "40",
+      "poza": "",
+      "filtru": "",
+      "special":"de-ciocolata"
+    },
+    {
+      "nume": "Tort cu fructe de pădure de tip bavaroise",
+      "info": "",
+      "continut":"Blat pandișpan; Cremă cu gust acrișor de ciocolată albă, fructe de pădure, brânză ricotta/mascarpone, frișcă.",
+      "descriere": "Un tort răcoritor și savuros în același timp, cu un gust echilibrat obținut din combinația fructelor de pădure, cu ciocolată albă și brânză ricotta/mascarpone.",
+      "pret": "45",
+      "poza": "",
+      "filtru": "",
+      "special":""
+    },
+    {
+      "nume": "Tort asortat",
+      "info": "",
+      "continut":"Blat pandișpan; Cremă diplomat, cremă de fructe de pădure.",
+      "descriere":"Combinația ideală între tort diplomat și tort cu fructe de padure.",
+      "pret": "45",
+      "poza": "",
+      "filtru":"frisca",
+      "special":""
+    },
+    {
+      "nume": "Tort Duo Mousse",
+      "info": "",
+      "continut":"Foi de pandișpan; Mousse alb, mousse negru",
+      "descriere": "O alternanță a mousse-ului de ciocolată albă cu gust de lapte și a mousse-ului din ciocolată veritabilă amară.",
+      "pret": "45",
+      "poza": "",
+      "filtru": "",
+      "special":""
+    },
+    {
+      "nume": "Tort Mousse cu lămâie / căpșuni / portocale",
+      "info": "",
+      "continut":"Foi de pandișpan; Mousse de ciocolată, fructe.",
+      "descriere": "Echilibrul perfect: ciocolată și fructe.",
+      "pret": "45",
+      "poza": "",
+      "filtru": "citrice portocala lamai",
+      "special":""
+    },
+    {
+      "nume": "Tort Moca",
+      "info": "",
+      "continut":"Blat pandișpan de cacao, sirop de cafea; Cremă amăruie de cafea.",
+      "descriere": "Pentru cei care iubesc cafeaua.",
+      "pret": "45",
+      "poza": "",
+      "filtru": "",
+      "special":""
+    },
+    {
+      "nume": "Tort Ciocolatină",
+      "info": "Tort de ciocolată",
+      "continut":"Blat de pandișpan și ciocolată; Cremă de ciocolată amară și frișcă.",
+      "descriere": "Pour le connoisseurs, destinat iubitorilor de ciocolată. Un tort dens cu gust pronunțat de ciocolată neagră și veritabilă.",
+      "pret": "50",
+      "poza": "",
+      "filtru": "",
+      "special":"de-ciocolata"
+    },
+    {
+      "nume": "Tort Trois Chocolate",
+      "info": "Tort de ciocolată",
+      "continut":"Foaie de pandișpan; Trei straturi de cremă de ciocolată veritabilă.",
+      "descriere": "Un tort foarte fin și rafinat, în 3 straturi de ciocolată: ciocolată intens amăruie, ciocolată cu lapte, ciocolată albă.",
+      "pret": "50",
+      "poza": "",
+      "filtru": "",
+      "special":"de-ciocolata"
+    },
+    {
+      "nume": "Tort Amaretto",
+      "info": "",
+      "continut":"Foi de pandispan, sirop de lămâie; Cremă de ciocolată veritabilă, smântână, pastă de migdale, cognac.",
+      "descriere": "Un tort cu un gust fin, destinat iubitorilor de migdale și ciocolată.",
+      "pret": "50",
+      "poza": "",
+      "filtru": "citrice lamai alcool",
+      "special":""
+    },
+    {
+      "nume": "Tort de ciocolată și vișine",
+      "info": "",
+      "continut":"Foi pandișpan cu ciocolată; Cremă de ciocolată neagră veritabilp, cremă de ciocolată albă veritabilă, vișine alcolizate.",
+      "descriere": "Combinație delicioasă a vișinelor alcolizate și ciocolată veritabilă. Un tort clasic și gustos.",
+      "pret": "50",
+      "poza": "",
+      "filtru": "citrice fructe alcool",
+      "special":""
+    }
+  ]
+
+}
